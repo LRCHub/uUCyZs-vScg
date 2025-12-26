@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "林檎売りの泡沫少女",
+  "base_artist": "yukkedoluce feat. GUMI",
+  "createdAt": "2025-12-26T00:18:59.934235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce",
+      "has_synced": false,
+      "path": "select/01_林檎売りの泡沫少女_yukkedoluce.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce feat. GUMI",
+      "has_synced": false,
+      "path": "select/02_林檎売りの泡沫少女_yukkedoluce_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce feat.すぃ",
+      "has_synced": false,
+      "path": "select/03_林檎売りの泡沫少女_yukkedoluce_feat.すぃ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce",
+      "has_synced": true,
+      "path": "select/04_林檎売りの泡沫少女_yukkedoluce.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "Sayaka Kanda",
+      "has_synced": true,
+      "path": "select/05_林檎売りの泡沫少女_Sayaka_Kanda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_林檎売りの泡沫少女_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "黒髪ストロングP",
+      "has_synced": true,
+      "path": "select/07_林檎売りの泡沫少女_黒髪ストロングP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女 ver.そらる",
+      "artist": "そらる",
+      "has_synced": false,
+      "path": "select/08_林檎売りの泡沫少女_ver.そらる_そらる.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "KK",
+      "has_synced": true,
+      "path": "select/09_林檎売りの泡沫少女_KK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "EXIT TUNES",
+      "has_synced": true,
+      "path": "select/10_林檎売りの泡沫少女_EXIT_TUNES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/11_林檎売りの泡沫少女_VA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "niki feat.Lily",
+      "has_synced": true,
+      "path": "select/12_林檎売りの泡沫少女_niki_feat.Lily.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce",
+      "has_synced": true,
+      "path": "select/13_林檎売りの泡沫少女_yukkedoluce.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "林檎売りの泡沫少女",
+      "artist": "KAKIVIVI",
+      "has_synced": false,
+      "path": "select/14_林檎売りの泡沫少女_KAKIVIVI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce Feat. GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_林檎売りの泡沫少女_yukkedoluce_Feat._GUMI.txt"
+    }
+  ]
+}
